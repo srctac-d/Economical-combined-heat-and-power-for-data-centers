@@ -1,5 +1,4 @@
-A clean, professional GitHub README.md for this specification needs to clearly state what the repository contains, highlight the core engineering specs (direct silicon power, microfluidic cooling, 1,200 VDC Quad-Stack, EMP immunity), and state the dual-licensing model (CC-BY 4.0 / CERN-OHL-S).   
-MD
+
 EPCS: Electrochemical Power & Cooling System
 Open Architecture Specification for Direct Non-Copper Power Delivery & Microfluidic Die Cooling for AI Data Centers
 
